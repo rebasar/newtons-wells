@@ -12,7 +12,7 @@ steps to reach the root.
 
 Assuming that you have the latest Go toolchain installed just run:
 
-> `go get git.fazlamesai.net/boran.puhaloglu/paralleling-pi/go/newtons-wells`
+> `go get github.com/rebasar/newtons-wells`
 
 If you want to build from git then first, make sure that you have the
 necessary libraries installed:
